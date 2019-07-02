@@ -1,2 +1,3 @@
 # databases-module-1.1
-Database design for a To-Do App
+
+https://github.com/SocialHackersCodeSchool/databases/blob/master/Week1/MAKEME.md
